@@ -7,7 +7,7 @@ Nos estaremos apoyando sobre este repositorio para la actualización de las etap
  
 Pueden navegar por las carpetas que estaran nombradas conforme a la numeracion que tenemos asignada en nexus, al completar la actividad mencionada cada carpeta del repositorio puedes notificarme por mensaje. 
 
-## Notas :paperclip:
+## Notas :newspaper:
 
 No es necesario clonar este repositorio en tu disco local.
 
