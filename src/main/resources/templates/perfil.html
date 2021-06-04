@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<!--Un estandar de HTML5 es poder dejar la etiqueta abierta, pero thymeleaf requiere escribir el cierre-->
+    <meta charset="UTF-8"/>
+    <title th:text="{titulo}"></title>
+</head>
+<body>
+    <h1 th:text="${titulo}"></h1>
+    
+    <span th:text="{usuario.nombre}"></span>
+    <span th:text="{usuario.apellido}"></span>
+    <span th:if="${usuario.email}" th:text="{usuario.email}"></span><br>
+    <span th:if="${usuario.email==null}" th:text="El usuario no tiene correo"></span>
+</body>
+</html>

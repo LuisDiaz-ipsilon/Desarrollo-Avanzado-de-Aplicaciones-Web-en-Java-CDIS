@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--Un estandar de HTML5 es poder dejar la etiqueta abierta, pero thymeleaf requiere escribir el cierre-->
+    <meta charset="UTF-8"/>
+    <title th:text="${titulo}"></title>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/styles.css}"></link>
+</head>
+<body>
+    
+    <h1 class="color-red">Esta aplicacion de prueba en spring</h1>
+    <h1 class="color-blue">Decoracion con elementos estaticos</h1>
+    <img th:src="@{/images/springImg.png}">
+</body>
+</html>

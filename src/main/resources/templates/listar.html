@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<!--Un estandar de HTML5 es poder dejar la etiqueta abierta, pero thymeleaf requiere escribir el cierre-->
+	<meta charset="UTF-8" />
+	<title th:text="{titulo}"></title>
+</head>
+
+<body>
+	<h1 th:text="${titulo}"></h1>
+
+
+	<!--En esta parte del codigo continuamos utilizando las sentencias de thymeleaf como lo es para calidar si el arreglo
+	de usuarios esta vacio y en las lineas 25 para recorrer el arreglo de usuarios-->
+	<div th:if="${not usuarios.isEmpty()}">No hay usuario registrados en al lista</div>
+	<!--Para negar el valor voleano se puede anteponer la palabra not, por ejemplo: th:if="${not usuarios.isEmpty()}"-->
+	<table th:if="${usuarios.size()>0}">
+		<thead>
+			<tr>Nombre</tr>
+			<tr>Apellido</tr>
+			<tr>Email</tr>
+		</thead>
+
+	</table>
+	<tbody>
+		<tr th:each="usuario: ${usuarios}">
+			<td th:text="${usuario.nombre}"></td>
+			<td th:text="${usuario.apellido}"></td>
+			<td th:text="${usuario.correo}"></td>
+		</tr>
+	</tbody>
+
+</body>
+
+</html>

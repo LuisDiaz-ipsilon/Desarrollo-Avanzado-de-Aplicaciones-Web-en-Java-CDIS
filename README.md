@@ -1,14 +1,6 @@
-# Capacitacion Java Web Desarrollo de talento :mortar_board:
-
-Nos estaremos apoyando sobre este repositorio para la actualización de las etapas 9 a la 12 ademas de algo de material extra para su capacitacion en el CDIS
+# Ejemplo Spring MVC :deciduous_tree:
 
 
-## Navegacion :paperclip:
- 
-Pueden navegar por las carpetas que estaran nombradas conforme a la numeracion que tenemos asignada en nexus, al completar la actividad mencionada cada carpeta del repositorio puedes notificarme por mensaje. 
+En este branch se encuentra un proyecto que te podrá ayudar en la guia de como comenzar tu proyecto con la estructura de Spring Boot, crear controladores, vistas, anotaciones como @RequesMapping, @ModelAttribute, @Value, etc. Directivas de Thymeleaf.
 
-## Notas :newspaper:
-
-No es necesario clonar este repositorio en tu disco local.
-
-Ante cualquier duda con gusto puedo apoyarte. Te deseo lo mejor en esta capacitacion.
+Se agregaron comentarios sobre los metodos para obtener los detalles de como es que funciona la aplicacion.

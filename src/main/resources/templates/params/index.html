@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--Un estandar de HTML5 es poder dejar la etiqueta abierta, pero thymeleaf requiere escribir el cierre-->
+    <meta charset="UTF-8"/>
+    <title>En esta vista estamos enviando parametros del Request HTTP GET-URL</title>
+</head>
+<body>
+    <h1>En esta vista estamos enviando parametros del Request HTTP GET-URL</h1>
+    <ul>
+        <li>
+            <!--Para enviar parametros a una ruta desde este archivo html podemos utilizar los parentesis despues de la ruta indicando la variable igualada al valor que queremos enviar IMPORTANTE utilizar comillas simples-->
+            <a th:href="@{/params/string(texto='Hola capacitacion CDIS')}">/params/string?texto=Hola capacitacion CDIS</a>
+        </li>
+        <li>
+            <!--A direfencia de los string´s al enviar un numero podemos solo teclearlo sin las comillas simples-->
+            <a th:href="@{/params/mix-params(saludo='Hola capacitacion CDIS mix params', numero=7)}">/params/mix-params?saludo=Hola capacitacion CDIS mix params&numero=7</a>
+        </li>
+        <li>
+            <!--A direfencia de los string´s al enviar un numero podemos solo teclearlo sin las comillas simples-->
+            <a th:href="@{/params/mix-params-request(saludo='Hola capacitacion CDIS mix params', numero=7)}">/params/mix-params?saludo=Hola capacitacion CDIS mix params&numero=7</a>
+        </li>
+    </ul>
+</body>
+</html>
