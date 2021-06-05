@@ -18,8 +18,11 @@ Es importante completar las lecturas de introduccion:
 
 Para entrar en materia puedes repasar el [codigo](https://github.com/LuisDiaz-ipsilon/Capacitacion-Java-Web/tree/Spring-MCV-ejemplo) de ejemplo, es importante mirar las anotaciones que se encuentran en las declaraciones de los metodos, variables y clases. Se agrego comentarios para su mayor comprension. 
 
-### Lectura anotaciones :watch:
+### Lectura Spring MVC y sus anotaciones :watch:
 
-- [Anotaciones Inyeccion de Dependencia Spring](https://drive.google.com/file/d/1AlT84qGeGThdYsn5l11DWks-6rNsip3o/view?usp=sharing)
+- [Spring MVC](https://drive.google.com/file/d/1zIYgbmy_mwdGlchReqAGtFXxSRjBaaLI/view?usp=sharing)
 
-Puedes comentarme por mensaje en cualquier momento para brindarte apoyo.
+- [Anotaciones Inyeccion de Dependencia Spring](https://drive.google.com/file/d/116p4NcXGso2Wd1WmboxWQ9HsrXWuuW8I/view?usp=sharing)
+
+Siempre es recomendable consultar la [documentacion oficial](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#resources) para crear un mejor codigo, pero en caso de que cuentes con alguna duda, con gusto puedo apoyar para resolverla.
+
