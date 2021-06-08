@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Luis Diaz
+Build-Jdk: 15.0.2
+Implementation-Title: spring-boot-di
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bolsadeideas.springboot.app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-di
+Created-By: Maven Integration for Eclipse
+
