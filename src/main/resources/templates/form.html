@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${titulo}"></title>
+</head>
+
+<body>
+    <h3 th:text="${titulo}"></h3>
+    <!--Al nombrar esta accion form del tipo post en el FormController.java se utilizara el metodo procesar-->
+    <form th:action="@{/form}" th:object="${usuario}" method="post">
+        <!--Desde el formulario tambien se puede mapear a una clase POJO, siempre y cuando el nombre el campo del formulario coincida con el nombre de los atributos de la clase pojo-->
+        <!--y colocando como parametro de entrada en el FormController.java al llamar el metodo procesar-->
+        <div>
+            <label for="identificador">Identificador</label>
+            <div>
+                <input type="text" id="identificador" th:field="*{identificador}">
+            </div>
+            <div th:if="${#fields.hasErrors('identificador')}" th:errors="*{identificador}"></div>
+        </div>
+
+        <div>
+            <label for="nombre">Nombre</label>
+            <div>
+                <input type="text" id="nombre" th:field="*{nombre}">
+            </div>
+            <div th:if="${#fields.hasErrors('nombre')}" th:errors="*{nombre}"></div>
+        </div>
+        <div>
+            <label for="apellido">Apellido</label>
+            <div>
+                <input type="text" id="apellido" th:field="*{apellido}">
+            </div>
+            <div th:if="${#fields.hasErrors('apellido')}" th:errors="*{apellido}"></div>
+        </div>
+        <div>
+            <label for="username">Username</label>
+            <div>
+                <!--Notamos que al usar esta vista y enviar el formulario los datos desaparecen y cuando no se logra registrar bien el fomrulario puede ser algo que se necesite-->
+                <!--Por lo que utilizamos la etiqueta th:value para traer los datos de la clase, OJO se ingresa el nombre de la clase con la condicion de que la primera letra siempre tiene que ser minuscula es decir: "usuario">
+                <input type="text" id="username" th:value="${usuario.username}"-->
+                <input type="text" id="username" th:field="*{username}">
+                <!--Cambiamos al th:field y usamos el asterisco que indica que es un atributo de una clase, es importante colocar la referencia con la etiqueda th:object="${usuario}" en form-->
+
+            </div>
+            <div th:if="${#fields.hasErrors('username')}" th:errors="*{username}"></div>
+        </div>
+        <div>
+            <label for="password">Password</label>
+            <div>
+                <input type="password" th:field="*{password}" id="password">
+            </div>
+            <div th:if="${#fields.hasErrors('password')}" th:errors="*{password}"></div>
+        </div>
+        <div>
+            <label for="email">Correo</label>
+            <div>
+                <input type="text" id="email" th:field="*{email}">
+            </div>
+            <div th:if="${#fields.hasErrors('email')}" th:errors="*{email}"></div>
+        </div>
+
+        <div>
+            <div>
+                <input type="submit" value="Enviar">
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>
