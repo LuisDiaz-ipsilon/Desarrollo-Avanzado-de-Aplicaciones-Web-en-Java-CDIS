@@ -10,4 +10,8 @@ Es importante completar los siguientes puntos:
 
 Dentro de los documentos tambien estan link´s de interes para que puedas complementar de mejor manera tu conocimiento.
 
+### Realiza la siguiente actividad para asentar el conocimiento sobre GIT procura utilizar la linea de comandos. :four_leaf_clover:
+
+- [Evidencia GIT](https://drive.google.com/file/d/1jhujwK4n1JyYIMhizWZUP9IURLllb4Ym/view?usp=sharing)
+
 Una vez terminada actividad de la lectura puedes notificarme por mensaje, en caso de duda con gusto te apoyo.
