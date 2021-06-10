@@ -12,6 +12,8 @@ Muy bien, llegamos a esta parte de la capacitacion en donde comenzaremos a desar
 
 Apoyate del los codigos anteriores para crear las vistas con formularios y tablas, para completar la siguiente evidencia de aprendizaje, al igual consulta los videos y lecturas sobre JPA que estan en nexusm ya que es nuestra plataforma principal.
 
--[Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1a31uNSF4lHddsisyMmAaUrWWaDcZMPE2/view?usp=sharing)
+- [Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1a31uNSF4lHddsisyMmAaUrWWaDcZMPE2/view?usp=sharing)
+
+- [Evidencia 2 Spring boot proyecto: Banco](https://drive.google.com/file/d/1sZEAL7h1QZdtcb1dZ8jf5sbHb9-u5l-s/view?usp=sharing)
 
 Recuerda que estoy disponible para apoyo sobre el desarrollo de tu aplicacion en Spring.
