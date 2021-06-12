@@ -24,4 +24,8 @@ Apoyate del los codigos anteriores para crear las vistas con formularios y tabla
 
 - [Evidencia 6 Spring boot proyecto: Banco](https://drive.google.com/file/d/1dFuOpuGYtK1O84r-SZpv5VzUNGooseaT/view?usp=sharing)
 
+- [Evidencia 7 Spring boot proyecto: Banco](https://drive.google.com/file/d/1kZHacg0e29B28QvjeCXXcM_O-faLBtmp/view?usp=sharing)
+
+- [Evidencia 8 Spring boot proyecto: Banco](https://drive.google.com/file/d/1CPwgTHC44DfNNiPO0N3lpwpTNvHTYnGd/view?usp=sharing)
+
 Recuerda que estoy disponible para apoyo sobre el desarrollo de tu aplicacion en Spring.
