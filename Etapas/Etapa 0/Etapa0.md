@@ -4,7 +4,7 @@ En esta etapa veremos que es git su instalacion y su forma de uso, tambien que e
 
 Es importante completar los siguientes puntos:
 
-- [Lectura GIT y GitHub](https://drive.google.com/file/d/1a4bRz07xIaNS2dLifgTGWpSuPdggwLtQ/view?usp=sharing)
+- [Lectura GIT y GitHub](https://drive.google.com/file/d/1njs-a5M6aa9yH90gkpwoPLANFAvEDxZq/view?usp=sharing)
 
 - [Instalacion GIT](https://drive.google.com/file/d/1RyIIHLQYN__5JGc31oNhz_AmatJimwyt/view?usp=sharing)
 
