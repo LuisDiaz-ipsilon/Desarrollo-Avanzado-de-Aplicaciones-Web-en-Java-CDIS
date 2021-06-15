@@ -12,20 +12,8 @@ Muy bien, llegamos a esta parte de la capacitacion en donde comenzaremos a desar
 
 Apoyate del los codigos anteriores para crear las vistas con formularios y tablas, para completar la siguiente evidencia de aprendizaje, al igual consulta los videos y lecturas sobre JPA que estan en nexusm ya que es nuestra plataforma principal.
 
-- [Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1uX-BYT2Xdo885_L8N7Nqoi9jQ0ZxgXmC/view?usp=sharing)
+- [Evidencia 3 Spring boot proyecto: Banco](https://drive.google.com/file/d/1N9ercUoDs2iNPILGXlw1Lr4MKj4rA_lT/view?usp=sharing) (Equivalente Nexus: Evidencia 11)
 
-- [Evidencia 2 Spring boot proyecto: Banco](https://drive.google.com/file/d/1WtxLHGgl-65Ao-hCApiiC-Fo4iTAUaSB/view?usp=sharing)
-
-- [Evidencia 3 Spring boot proyecto: Banco](https://drive.google.com/file/d/1N9ercUoDs2iNPILGXlw1Lr4MKj4rA_lT/view?usp=sharing)
-
-- [Evidencia 4 Spring boot proyecto: Banco](https://drive.google.com/file/d/1dJxjGe7xCGvfMfV67vR1WCzRTdypJV7w/view?usp=sharing)
-
-- [Evidencia 5 Spring boot proyecto: Banco](https://drive.google.com/file/d/1bbWFBoOJ9tBKlOgciuRrlexEh6BlthK9/view?usp=sharing)
-
-- [Evidencia 6 Spring boot proyecto: Banco](https://drive.google.com/file/d/1dFuOpuGYtK1O84r-SZpv5VzUNGooseaT/view?usp=sharing)
-
-- [Evidencia 7 Spring boot proyecto: Banco](https://drive.google.com/file/d/1kZHacg0e29B28QvjeCXXcM_O-faLBtmp/view?usp=sharing)
-
-- [Evidencia 8 Spring boot proyecto: Banco](https://drive.google.com/file/d/1CPwgTHC44DfNNiPO0N3lpwpTNvHTYnGd/view?usp=sharing)
+- [Evidencia 4 Spring boot proyecto: Banco](https://drive.google.com/file/d/1dJxjGe7xCGvfMfV67vR1WCzRTdypJV7w/view?usp=sharing) (Equivalente Nexus: Evidencia 12)
 
 Recuerda que estoy disponible para apoyo sobre el desarrollo de tu aplicacion en Spring.
