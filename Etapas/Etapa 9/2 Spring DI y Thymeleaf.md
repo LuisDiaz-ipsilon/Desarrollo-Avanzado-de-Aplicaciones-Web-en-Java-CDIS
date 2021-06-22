@@ -18,6 +18,10 @@ Thymeleaf es un motor de plantillas que nos apoya con el contexto HTML, nos ofre
 
 - [Lectura Descripcion de Thymeleaf](https://blog.softtek.com/es/thymeleaf)
 
+### Videos para la etapa 9 :tv:
+
+- [Video 1 creacion de ](https://youtu.be/BxegpvRry9g)
+
 ### Completas las siguientes Evidencias :star:
 
 - [Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1uX-BYT2Xdo885_L8N7Nqoi9jQ0ZxgXmC/view?usp=sharing) (Equivalente Nexus: Evidencia 9)
