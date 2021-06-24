@@ -20,11 +20,11 @@ Thymeleaf es un motor de plantillas que nos apoya con el contexto HTML, nos ofre
 
 ### Videos para la etapa 9 :tv:
 
-- [Video 1 crear aplicacion en STS ](https://youtu.be/BxegpvRry9g)
+- [Video 1 crear aplicacion en STS ](https://youtu.be/BxegpvRry9g) :vhs:
 
-- [Video 2 Crear entidades y tablas en la base de datos](https://youtu.be/dZkgCMLXT70)
+- [Video 2 Crear entidades y tablas en la base de datos](https://youtu.be/dZkgCMLXT70) :vhs:
 
-- [Video 3 Relacion de Entidades y normalizar tablas](https://youtu.be/D64ByJy6tGE)
+- [Video 3 Relacion de Entidades y normalizar tablas](https://youtu.be/D64ByJy6tGE) :vhs:
 
 ### Completas las siguientes Evidencias :star:
 
