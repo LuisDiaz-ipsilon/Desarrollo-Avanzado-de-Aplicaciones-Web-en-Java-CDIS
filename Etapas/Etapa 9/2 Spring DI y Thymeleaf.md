@@ -26,6 +26,8 @@ Thymeleaf es un motor de plantillas que nos apoya con el contexto HTML, nos ofre
 
 - :arrow_forward: [Video 3 Relacion de Entidades y normalizar tablas](https://youtu.be/D64ByJy6tGE) :vhs:
 
+- :arrow_forward: [Video 4 Consola Base de Datos H2](https://youtu.be/MZK_RIz-IQc) :vhs:
+
 ### Completas las siguientes Evidencias :star:
 
 - [Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1uX-BYT2Xdo885_L8N7Nqoi9jQ0ZxgXmC/view?usp=sharing) (Equivalente Nexus: Evidencia 9)
