@@ -16,6 +16,9 @@ Apoyate del los codigos de ejemplo y videos para crear las vistas con formulario
 
 - :arrow_forward: [Video 1 crear Data Access Object](https://youtu.be/kdcJuIkPykA) :vhs:
 
+- :arrow_forward: [Video 2 crear Controller](https://youtu.be/JeZYW_J5tNc) :vhs:
+
+
 ### Evidencias de proyecto Banco :page_facing_up:
 
 - [Evidencia 3 Spring boot proyecto: Banco](https://drive.google.com/file/d/1N9ercUoDs2iNPILGXlw1Lr4MKj4rA_lT/view?usp=sharing) (Equivalente Nexus: Evidencia 11)
