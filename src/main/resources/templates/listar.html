@@ -14,7 +14,7 @@
 	<!--En esta parte del codigo continuamos utilizando las sentencias de thymeleaf como lo es para calidar si el arreglo
 	de usuarios esta vacio y en las lineas 25 para recorrer el arreglo de usuarios-->
 	<div th:if="${not usuarios.isEmpty()}">No hay usuario registrados en al lista</div>
-	<!--Para negar el valor voleano se puede anteponer la palabra not, por ejemplo: th:if="${not usuarios.isEmpty()}"-->
+	<!--Para negar el valor boleano se puede anteponer la palabra not, por ejemplo: th:if="${not usuarios.isEmpty()}"-->
 	<table th:if="${usuarios.size()>0}">
 		<thead>
 			<tr>Nombre</tr>
