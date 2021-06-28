@@ -6,11 +6,17 @@ Muchos de los documentos de apoyo sobre estos conceptos se encuentran en la plat
 
 - [Spring JPA Ejemplo](https://github.com/LuisDiaz-ipsilon/Capacitacion-Java-Web/tree/Spring-JPA-Ejemplo)
 
-### Evidencia Spring Boot proyecto: Banco :pushpin:
+### Proyecto: Banco :pushpin:
 
 Muy bien, llegamos a esta parte de la capacitacion en donde comenzaremos a desarollar una aplicacion Spring Boot con JPA, Thymeleaf, Spring Web, y mas. 
 
-Apoyate del los codigos anteriores para crear las vistas con formularios y tablas, para completar la siguiente evidencia de aprendizaje, al igual consulta los videos y lecturas sobre JPA que estan en nexusm ya que es nuestra plataforma principal.
+Apoyate del los codigos de ejemplo y videos para crear las vistas con formularios y tablas, para completar la siguiente evidencia de aprendizaje, sube tus evidencias a la plataforma Nexus.
+
+### Videos Etapa 10 :cd:
+
+- :arrow_forward: [Video 1 crear Data Access Object](https://youtu.be/kdcJuIkPykA) :vhs:
+
+### Evidencias de proyecto Banco :page_facing_up:
 
 - [Evidencia 3 Spring boot proyecto: Banco](https://drive.google.com/file/d/1N9ercUoDs2iNPILGXlw1Lr4MKj4rA_lT/view?usp=sharing) (Equivalente Nexus: Evidencia 11)
 
