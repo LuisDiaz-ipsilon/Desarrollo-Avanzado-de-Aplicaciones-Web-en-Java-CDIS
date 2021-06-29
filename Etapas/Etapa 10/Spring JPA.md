@@ -20,6 +20,8 @@ Apoyate del los codigos de ejemplo y videos para crear las vistas con formulario
 
 - :arrow_forward: [Video 3 añadir Spring Web Tools con Eclipse Marketplace](https://youtu.be/FmsW1SNNAzE) :vhs:
 
+- :arrow_forward: [Video 4 crear lista HTML](https://youtu.be/W3L993T4QQI) :vhs:
+
 
 ### Evidencias de proyecto Banco :page_facing_up:
 
