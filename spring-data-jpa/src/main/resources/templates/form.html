@@ -11,7 +11,7 @@
     <h1 th: text="${titulo}"></h1>
 
     <div>
-        <form ht:action="@{/form}" th:object="${cliente}" method="post">
+        <form th:action="@{/form}" th:object="${cliente}" method="post">
             <table>
                 <tr>
                     <td>Nombre</td>
