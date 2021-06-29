@@ -18,6 +18,8 @@ Apoyate del los codigos de ejemplo y videos para crear las vistas con formulario
 
 - :arrow_forward: [Video 2 crear Controller](https://youtu.be/JeZYW_J5tNc) :vhs:
 
+- :arrow_forward: [Video 3 añadir Spring Web Tools con Eclipse Marketplace](https://youtu.be/FmsW1SNNAzE) :vhs:
+
 
 ### Evidencias de proyecto Banco :page_facing_up:
 
