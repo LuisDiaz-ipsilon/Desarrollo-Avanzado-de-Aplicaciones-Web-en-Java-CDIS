@@ -24,6 +24,8 @@ Apoyate del los codigos de ejemplo y videos para crear las vistas con formulario
 
 - :arrow_forward: [Video 5 añadiendo metodo save, delete y edit](https://youtu.be/9H6WdKGhfjQ) :vhs:
 
+- :arrow_forward: [Video 6 Formularios guardar relacion cuenta - tarjeta](https://youtu.be/vvGfdkd5opQ) :vhs:
+
 ### Evidencias de proyecto Banco :page_facing_up:
 
 - [Evidencia 3 Spring boot proyecto: Banco](https://drive.google.com/file/d/1N9ercUoDs2iNPILGXlw1Lr4MKj4rA_lT/view?usp=sharing) (Equivalente Nexus: Evidencia 11)
