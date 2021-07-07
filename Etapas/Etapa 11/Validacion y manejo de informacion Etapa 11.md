@@ -6,6 +6,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V1 Select cuenta con List y SessionStatus](https://youtu.be/ABhpqRx7cp4) :vhs:
 
+- :arrow_forward: [V2 Editar Eliminar registros](https://youtu.be/cn3IyJdlGI4) :vhs:
+
 ### Evidencias :heavy_check_mark:
 
 - [Evidencia 5 Spring boot proyecto: Banco](https://drive.google.com/file/d/1bbWFBoOJ9tBKlOgciuRrlexEh6BlthK9/view?usp=sharing) (Equivalente Nexus: Evidencia 13)
