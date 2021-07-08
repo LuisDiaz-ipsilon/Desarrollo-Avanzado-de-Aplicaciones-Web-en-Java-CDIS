@@ -8,6 +8,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V2 Editar Eliminar registros](https://youtu.be/cn3IyJdlGI4) :vhs:
 
+- :arrow_forward: [V3 Validator y Expresiones regulares](https://youtu.be/sdr7xe3V3_Q) :vhs:
+
 ### Evidencias :heavy_check_mark:
 
 - [Evidencia 5 Spring boot proyecto: Banco](https://drive.google.com/file/d/1bbWFBoOJ9tBKlOgciuRrlexEh6BlthK9/view?usp=sharing) (Equivalente Nexus: Evidencia 13)
