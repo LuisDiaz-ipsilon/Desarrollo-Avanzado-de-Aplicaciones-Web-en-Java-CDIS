@@ -10,6 +10,13 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V3 Validator y Expresiones regulares](https://youtu.be/sdr7xe3V3_Q) :vhs:
 
+### Links de referencia 
+
+- :straight_ruler: [Expresiones Regulares Online](https://regexr.com/)
+
+- :hammer: [Guia Expresiones Regulares](https://github.com/falconmasters/expresiones-regulares/blob/master/Expresiones_Regulares.txt)
+
+
 ### Evidencias :heavy_check_mark:
 
 - [Evidencia 5 Spring boot proyecto: Banco](https://drive.google.com/file/d/1bbWFBoOJ9tBKlOgciuRrlexEh6BlthK9/view?usp=sharing) (Equivalente Nexus: Evidencia 13)
