@@ -10,6 +10,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V3 Validator y Expresiones regulares](https://youtu.be/sdr7xe3V3_Q) :vhs:
 
+- :arrow_forward: [V4 Validator personalizado, InitBinder, Delete cuenta con tarjetas MERGE](https://youtu.be/Gjs61azogOk) :vhs:
+
 ### Links de referencia 
 
 - :straight_ruler: [Expresiones Regulares Online](https://regexr.com/)
