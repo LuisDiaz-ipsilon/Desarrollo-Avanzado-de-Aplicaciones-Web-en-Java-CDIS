@@ -14,7 +14,7 @@ Apoyate del los codigos de ejemplo y videos para crear las vistas con formulario
 
 ### Videos Etapa 10 :cd:
 
-- :arrow_forward: [Video 1 crear Data Access Object](https://youtu.be/kdcJuIkPykA) :vhs:
+- :arrow_forward: [Video 1 crear Data Access Object (DAO)](https://youtu.be/kdcJuIkPykA) :vhs:
 
 - :arrow_forward: [Video 2 crear Controller](https://youtu.be/JeZYW_J5tNc) :vhs:
 
