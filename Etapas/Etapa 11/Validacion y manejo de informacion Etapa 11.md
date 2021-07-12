@@ -14,6 +14,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V5 Validar Size List de tarjetas](https://youtu.be/_C2LIH8H9jg) :vhs:
 
+- :arrow_forward: [V6 Exception personalizada Spring](https://youtu.be/1PsNxRZQmJU) :vhs:
+
 ### Links de referencia 
 
 - :straight_ruler: [Expresiones Regulares Online](https://regexr.com/)
