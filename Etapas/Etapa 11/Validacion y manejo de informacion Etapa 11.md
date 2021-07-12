@@ -18,6 +18,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :hammer: [Guia Expresiones Regulares](https://github.com/falconmasters/expresiones-regulares/blob/master/Expresiones_Regulares.txt)
 
+- :speech_balloon: [DOC de Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.pdf)
+
 
 ### Evidencias :heavy_check_mark:
 
