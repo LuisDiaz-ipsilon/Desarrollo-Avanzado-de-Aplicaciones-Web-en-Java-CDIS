@@ -10,7 +10,7 @@ Continuamos con la misma mecanica de las etapas anteriores en cuestion de subir 
 
 ### Video :battery:
 
-- :arrow_forward: [V1 Añadiento CSS clases personalizadas](https://youtu.be/q-Tm_RdFYUw) :vhs:
+- :arrow_forward: [V1 CSS: clases personalizadas y generales, imagenes con Thymeleaf](https://youtu.be/q-Tm_RdFYUw) :vhs:
 
 ### Evidencias :checkered_flag:
 
