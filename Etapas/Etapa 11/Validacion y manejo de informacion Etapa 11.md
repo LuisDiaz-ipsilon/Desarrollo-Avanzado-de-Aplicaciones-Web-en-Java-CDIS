@@ -18,6 +18,8 @@ En esta etapa compartiremos muchas de la informacion que ya se encuentra cargada
 
 - :arrow_forward: [V7 Service y Editors: Relación tarjeta-cuenta](https://youtu.be/T-3WrhSxC0Y) :vhs:
 
+- ▶️: [EXTRA Busquedas personalizadas](https://youtu.be/j3x3gO6kQf0) :vhs:
+
 ### Links de referencia 
 
 - :straight_ruler: [Expresiones Regulares Online](https://regexr.com/)
