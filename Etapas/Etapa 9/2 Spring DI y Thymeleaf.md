@@ -1,4 +1,4 @@
-#Spring Boot Inyeccion de Depentencia y Thymeleaf :full_moon:
+# Spring Boot Inyeccion de Depentencia y Thymeleaf :full_moon:
 
 ### Spring Boot Injeccion de dependencia :syringe:
 
@@ -18,6 +18,16 @@ Thymeleaf es un motor de plantillas que nos apoya con el contexto HTML, nos ofre
 
 - [Lectura Descripcion de Thymeleaf](https://blog.softtek.com/es/thymeleaf)
 
+### Videos para la etapa 9 :tv:
+
+- :arrow_forward: [Video 1 crear aplicacion en STS ](https://youtu.be/BxegpvRry9g) :vhs:
+
+- :arrow_forward: [Video 2 Crear entidades y tablas en la base de datos](https://youtu.be/dZkgCMLXT70) :vhs:
+
+- :arrow_forward: [Video 3 Relacion de Entidades y normalizar tablas](https://youtu.be/D64ByJy6tGE) :vhs:
+
+- :arrow_forward: [Video 4 Consola Base de Datos H2](https://youtu.be/MZK_RIz-IQc) :vhs:
+
 ### Completas las siguientes Evidencias :star:
 
 - [Evidencia Spring Boot proyecto: Banco](https://drive.google.com/file/d/1uX-BYT2Xdo885_L8N7Nqoi9jQ0ZxgXmC/view?usp=sharing) (Equivalente Nexus: Evidencia 9)
@@ -25,3 +35,12 @@ Thymeleaf es un motor de plantillas que nos apoya con el contexto HTML, nos ofre
 - [Evidencia 2 Spring boot proyecto: Banco](https://drive.google.com/file/d/1WtxLHGgl-65Ao-hCApiiC-Fo4iTAUaSB/view?usp=sharing) (Equivalente Nexus: Evidencia 10)
 
 Te deseo el mejor exito en esta etapa, es importante leer las anotaciones y la documentacion anexada en este archivo y la que se encuentra en el README de los ejemplos para tu mejor aprendizaje.
+
+### Sitios de interes
+
+En la API del JDK 11 podras encontrar la descripcion de todas las clases existentes para esa version de Java.
+Recomiendo usarla para encontrar los metodos de las clases que puedes usar en tu proyecto.
+- [API del JDK 11](https://docs.oracle.com/en/java/javase/11/docs/api/overview-tree.html)
+
+Este documento nos ayudara a lo largo de estas 4 etapas ya que nos habla de los atributos que podemos implementar en la etiquetas de nuestros HTML5. De verdad que es muy util para ver todas las posibilidades para los usuarios de la aplicacion.
+- [Documentacion de Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.pdf)
