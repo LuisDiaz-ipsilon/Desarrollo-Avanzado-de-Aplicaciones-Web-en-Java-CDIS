@@ -1,6 +1,6 @@
 # Capacitacion Java Web Desarrollo de talento :mortar_board:
 
-Nos estaremos apoyando sobre este repositorio para la actualización de las etapas 9 a la 12 ademas de algo de material extra para su capacitacion en el CDIS
+Nos estaremo apoyando sobre este repositorio para la actualización de las etapas 9 a la 12 ademas de algo de material extra para su capacitacion en el CDIS
 
 
 ## Navegacion :paperclip:
