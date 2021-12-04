@@ -1,4 +1,4 @@
-# :eight: Etapa 8 Etapa 8: AOO y Expresiones Lambda :moyai:
+# :eight: Etapa 8: AOO y Expresiones Lambda :moyai:
 
 Aplicar conceptos de POO y AOO para crear un aplicación de consola Java.
 
