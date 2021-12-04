@@ -16,7 +16,7 @@ Completar la lectura del material mendiante el Objeto de Aprendizaje:
 
 Completa la siguiente evaluacion
 
-- [Aplicación de Examen POO](https://forms.office.com/Pages/ResponsePage.aspx?id=EZDKymp73kSGHwlaLKiDt-Bc110OKV1JhhMBmULhZ4tUNVIzVkVGR0M0OU5SSlhXVTBRQ0tJVEFKNS4u)
+- :large_orange_diamond: [Aplicación de Examen POO](https://forms.office.com/Pages/ResponsePage.aspx?id=EZDKymp73kSGHwlaLKiDt-Bc110OKV1JhhMBmULhZ4tUNVIzVkVGR0M0OU5SSlhXVTBRQ0tJVEFKNS4u)
 
 
 ### Evidencia Diagrama de Clases UML (EXTRA) :atm:
@@ -30,4 +30,4 @@ Completa la siguiente lectura sobre los diagramas de clases UML:
 - [Evidencia Diagrama de clases UML](https://drive.google.com/file/d/1XIpP_KdNN54srSpfdQCyPwZ3RIgiXFKc/view?usp=sharing)
 
 Puedes utilizar la herramienta de diseño de diagramas de tu preferencia, anexo una de las herramientas en linea como recomendacion. 
-COn gusto recibo por mensaje tu avanze o cualquier duda. Mucho exito.
+Con gusto recibo por mensaje tu avanze o cualquier duda. Mucho exito.
