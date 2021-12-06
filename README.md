@@ -1,14 +1,14 @@
-# Capacitacion Java Web Desarrollo de talento :mortar_board:
+# Capacitacion Desarrollo Avanzado de Aplicaciones Web en Java :mortar_board:
 
-Nos estaremo apoyando sobre este repositorio para la actualización de las etapas 9 a la 12 ademas de algo de material extra para su capacitacion en el CDIS
-
+Nos estaremos apoyando sobre este repositorio para su capacitacion en el CDIS
 
 ## Navegacion :paperclip:
- 
-Pueden navegar por las carpetas que estaran nombradas conforme a la numeracion que tenemos asignada en nexus, al completar la actividad mencionada cada carpeta del repositorio puedes notificarme por mensaje. 
+
+Pueden navegar por las carpetas que estaran nombradas conforme a la numeracion 1 hasta 16, dentro de cada archivo .md se encuentran las instrucciones para el material y formulario de llenado de evidencias.
 
 ## Notas :newspaper:
 
 No es necesario clonar este repositorio en tu disco local.
 
-Ante cualquier duda con gusto puedo apoyarte. Te deseo lo mejor en esta capacitacion.
+Ante cualquier duda con gusto puedo apoyarte. Mi contacto en Slack: U01NX9MPH26 y mi correo: fernando.floresdz@uanl.edu.mx
+Te deseo lo mejor en esta capacitacion.
