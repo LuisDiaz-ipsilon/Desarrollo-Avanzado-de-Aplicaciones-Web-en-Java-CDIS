@@ -14,6 +14,6 @@ Dentro de los documentos tambien estan link´s de interes para que puedas comple
 
 - [Evidencia GIT](https://drive.google.com/file/d/1jhujwK4n1JyYIMhizWZUP9IURLllb4Ym/view?usp=sharing)
 
-z### Sube la evidencias en el siguiente forms :confetti_ball:
+### Sube la evidencias en el siguiente forms :confetti_ball:
 
 - :arrow_up: [Revision Evidencia Git](https://forms.office.com/Pages/ResponsePage.aspx?id=EZDKymp73kSGHwlaLKiDt-Bc110OKV1JhhMBmULhZ4tUN0cxMUNPVFVLSEVHWUVJRlk1OElTMjlNOC4u)
