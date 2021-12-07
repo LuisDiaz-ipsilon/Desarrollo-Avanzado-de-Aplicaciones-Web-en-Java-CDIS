@@ -1,4 +1,4 @@
-# :eight: Etapa 8: AOO y Expresiones Lambda :moyai:
+# :eight: Etapa 8: AOO, Diagrama UML y Expresiones Lambda :moyai:
 
 Aplicar conceptos de POO y AOO para crear un aplicación de consola Java.
 
@@ -19,7 +19,7 @@ Completa la siguiente evaluacion
 - :large_orange_diamond: [Aplicación de Examen POO](https://forms.office.com/Pages/ResponsePage.aspx?id=EZDKymp73kSGHwlaLKiDt-Bc110OKV1JhhMBmULhZ4tUNVIzVkVGR0M0OU5SSlhXVTBRQ0tJVEFKNS4u)
 
 
-### Evidencia Diagrama de Clases UML (EXTRA) :atm:
+### Evidencia Diagrama de Clases UML :atm:
 
 Completa la siguiente lectura sobre los diagramas de clases UML:
 
